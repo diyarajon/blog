@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Diya Rajon",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Student",
-    bio: "Computer Engineering + Linguistics",
+    image: "/diya.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "CompE+Linguistics @ UT Austin",
+    bio: "Interested in ML Human-Computer Interactions",
     email: "drajon@utexas.edu",
     linkedin: "drajon",
     github: "diyarajon",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "DiyaRrajon",
-    description: "Welcome",
+    title: "DiyaRajon",
+    description: "Hello!",
   },
 
   // CONFIG configration (required)
